@@ -11,6 +11,18 @@
 .attribution {
     font-size: 11px;
     text-align: center;
+
+    display: block;
+
+    position: absolute;
+
+    bottom: 30px;
+
+    /*left-right centering with absolute positioning*/
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
 }
 .attribution a {
     color: hsl(228, 45%, 44%);
@@ -23,6 +35,8 @@ html, body {
 
 body {
     background-color: hsl(212, 45%, 89%);
+
+    display: flex;
 }
 
 main {
@@ -36,10 +50,21 @@ main {
     background-color: white;
 
     border-radius: 15px;
+
+    margin: auto;
+
+    display: flex;
+    flex-direction: column;
+
+    padding: 15px;
+
+    box-sizing: border-box;
 }
 
 .qrcode {
     display: block;
+
+    margin: auto;
 
     width: 260px;
     height: 260px;
@@ -50,14 +75,22 @@ main {
 article {
     width: 260px;
     height: 160px;
+
+    margin: auto;
 }
 
 h1 {
     font-weight: 700;
 
     color: hsl(218, 44%, 22%);
+
+    text-align: center;
+
 }
 
 p {
     color: hsl(220, 15%, 55%);
+
+    text-align: center;
+
 }
