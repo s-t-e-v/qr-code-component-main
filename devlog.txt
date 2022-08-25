@@ -2,4 +2,12 @@
 
 I start this project to give me confidence in doing thougher projects to me.
 
+I created a new branch in git: semantic_html
+
 I will follow the strategy to do semantic markup in the HTML.
+
+I tried as much as I could to not use div and span.
+
+I am now using GIMP to know the size of elements and how there are spaced.
+
+After that, I will follow frontendmentor guidance and beginning with font in the css file
