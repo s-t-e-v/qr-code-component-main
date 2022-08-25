@@ -21,12 +21,43 @@ html, body {
     margin: 0; /*necessary to get rid of the scrollbar*/
 }
 
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
 main {
     font-family: 'outfitthin', sans-serif;
     font-weight: 400;
     font-size: 15px;
+
+    width: 290px;
+    height: 450px;
+
+    background-color: white;
+
+    border-radius: 15px;
+}
+
+.qrcode {
+    display: block;
+
+    width: 260px;
+    height: 260px;
+
+    border-radius: 10px;
+}
+
+article {
+    width: 260px;
+    height: 160px;
 }
 
 h1 {
     font-weight: 700;
+
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    color: hsl(220, 15%, 55%);
 }

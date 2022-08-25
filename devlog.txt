@@ -17,3 +17,5 @@ By analysing the layout with Gimp, I can better choose what kind of container an
 I created a new branch: css style
 
 I begun with including font.
+
+I formatted the font, now let's box and put some colors.
