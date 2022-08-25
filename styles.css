@@ -1,7 +1,31 @@
+@font-face {
+    font-family: 'outfitthin';
+    src: url("Outfit/Outfit-VariableFont_wght.ttf") format('truetype'),
+         url('Outfit/outfit-variablefont_wght-webfont.woff2') format('woff2'),
+         url('Outfit/outfit-variablefont_wght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
 }
 .attribution a {
     color: hsl(228, 45%, 44%);
+}
+
+html, body {
+    height: 100%; /*necessary to make body contents centered*/
+    margin: 0; /*necessary to get rid of the scrollbar*/
+}
+
+main {
+    font-family: 'outfitthin', sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    font-weight: 700;
 }

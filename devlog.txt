@@ -13,3 +13,7 @@ I am now using GIMP to know the size of elements and how there are spaced.
 After that, I will follow frontendmentor guidance and beginning with font in the css file
 
 By analysing the layout with Gimp, I can better choose what kind of container and the tag associated should I use in HTML. And I can also see what kind of flex property I should use.
+
+I created a new branch: css style
+
+I begun with including font.
