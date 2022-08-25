@@ -7,6 +7,22 @@ The designs were created to the following widths:
 - Mobile: 375px
 - Desktop: 1440px
 
+## Size
+
+- QR code:
+    - width: 260px
+    - height: 260px
+    - border-radius: 10px
+- Main:
+    - width: 290px
+    - height: 450px
+    - padding: 15px or 0px
+    - border-radius: 15px
+    - box-shadow: 24px
+- article:
+    - width: 260px
+    - height: 160px
+
 ## Colors
 
 - White: hsl(0, 0%, 100%)
