@@ -21,3 +21,7 @@ I begun with including font.
 I formatted the font, now let's box and put some colors.
 
 I did some centering. Almost done. only the shadow left.
+
+I put the shadow and merged css_style with main.
+
+README remaining and then project done.
